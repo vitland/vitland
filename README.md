@@ -36,4 +36,4 @@ Fronted developer
 
 <b>GitHub</b>
 
-<a href="http://www.github.com/vitland"><img src="https://github-readme-stats.vercel.app/api?username=vitland&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=00000&icon_color=0891b2&bg_color=f4f4f3&hide_border=true&show_icons=true" alt="vitland's GitHub stats" /></a> <a href="http://www.github.com/vitland"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitland&stroke=000&background=f4f4f3&ring=0891b2&fire=0891b2&currStreakNum=000&currStreakLabel=0891b2&sideNums=000&sideLabels=000&dates=000&hide_border=true" /></a>
+<a href="http://www.github.com/vitland"><img src="https://github-readme-stats.vercel.app/api?username=vitland&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=00000&icon_color=0891b2&bg_color=f4f4f3&hide_border=true&show_icons=true" alt="vitland's GitHub stats" /></a>
